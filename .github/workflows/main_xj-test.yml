@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'XJ-test'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_379E1BFE75B9423ABA33297DBBAF5014 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A29EE445FD62419E95CB6E833C7CA9AD }}
           package: .
